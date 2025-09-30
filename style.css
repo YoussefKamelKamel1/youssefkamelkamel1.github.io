@@ -81,3 +81,11 @@ footer {
   color: white;
   margin-top: 30px;
 }
+
+img {
+  width: 150px;   /* adjust size */
+  height: auto;   /* keeps proportions */
+  border-radius: 50%; /* optional: makes it circular */
+}
+
+
